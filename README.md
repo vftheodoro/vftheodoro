@@ -48,22 +48,6 @@ I’m passionate about building impactful products — from apps and AI prototyp
 
 ---
 
-## 🚀 Featured Projects  
-
-### 🦾 **WACS – Wheelchair Automation Control System**  
-> A smart wheelchair platform integrating mobile apps, Bluetooth control, and AI navigation to assist people with disabilities.  
-**Built with:** React Native, Firebase, Python, Arduino, Node.js  
-
-### 🚌 **Urban Smart Transport App (in development)**  
-> A collaborative mobility app that predicts bus arrival times, tracks vehicles in real time, and suggests less crowded routes.  
-**Built with:** React Native, Firebase, TypeScript, AI Data Models  
-
-### 🖨️ **Print 3D – Freelance Tech Studio**  
-> Personal freelance initiative providing 3D printing, embedded solutions, and digital prototypes for clients and institutions.  
-**Focus:** Automation • Product Design • Web & Mobile Integration  
-
----
-
 ## 📘 Education & Courses  
 
 - 🎓 **Systems Development – Etec de Registro** (Technical High School + Software Engineering Program)  
