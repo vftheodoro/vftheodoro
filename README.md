@@ -18,7 +18,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=vftheodoro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=0078FF&text_color=c9d1d9&rank_icon=github" />
 
 ### `whoami`
 
