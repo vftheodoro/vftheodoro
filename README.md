@@ -1,20 +1,22 @@
+
+<div align="center">
+
 # 👋 Hi, I'm Victor Theodoro
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:161b22&height=100&section=header&stroke=36BCF7&strokeWidth=2"/>
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1500&color=36BCF7&center=true&vCenter=true&width=900&lines=Victor+Theodoro;Full+Stack+Developer;Founder+%40+BYTHE;Technology+Instructor;Software+%7C+Cloud+%7C+IoT+%7C+AI" alt="Typing SVG"/>
+<a href="https://github.com/vftheodoro">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=27&duration=2800&pause=1600&color=36BCF7&center=true&vCenter=true&width=850&lines=Junior+Software+Engineer;Backend+%26+Full+Stack+Developer;Cloud+%7C+Automation+%7C+Applied+AI;Founder+at+BYTHE;Building+Solutions+for+Real+Problems" alt="Victor Theodoro - Software Engineer"/>
 </a>
 
-<br/><br/>
+### Software Engineering • Backend • Cloud • AI-Assisted Development
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vftheodoro)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge\&logo=safari\&logoColor=white)](https://vftheodoro.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vftheodoro)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:victorgft@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/vftheodoro)
+**Turning real-world problems into practical software solutions.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vftheodoro)
+[![Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=black)](https://vftheodoro.vercel.app/pt)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vftheodoro)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorgft@outlook.com)
 
 </div>
 
@@ -22,225 +24,172 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const victor = {
-  role: "Full Stack Developer",
-  company: "Founder @ BYTHE",
-  secondaryBusiness: "CEO @ PRINTH 3D",
-  instructor: true,
-  location: "São Paulo, Brazil 🇧🇷",
+I'm a **Junior Software Engineer** focused on Backend, Full Stack Development, Cloud Computing, and Applied AI.
 
-  expertise: [
-    "Web Development",
-    "Mobile Development",
-    "Cloud Computing",
-    "IT Infrastructure",
-    "Artificial Intelligence",
-    "Internet of Things",
-    "3D Printing"
-  ],
+Currently studying **Multiplatform Software Development at Fatec Registro**, with a technical qualification in Systems Development from Etec Registro.
 
-  technologies: [
-    "React",
-    "Next.js",
-    "Node.js",
-    "TypeScript",
-    "AWS",
-    "Python",
-    "C#"
-  ],
+My experience includes building software for real business needs, connecting applications, APIs, databases, cloud services, automation, and occasionally hardware.
 
-  motto: "Building technology that creates real impact."
-};
-```
+I believe software engineering goes beyond writing code. It involves understanding problems, evaluating trade-offs, designing solutions, and taking responsibility for the final result.
 
-* 🚀 Founder of **BYTHE** — Software Development, IT Infrastructure and Digital Solutions
-* 🖨️ CEO of **PRINTH 3D** — 3D Printing, Prototyping and Custom Solutions
-* 🎓 Technology Instructor in qualification programs linked to CPS, municipalities and educational institutions
-* ♿ Co-founder & Technical Lead of **WACS**
-* 💡 Passionate about solving real-world problems through technology
-* 🔭 Exploring AI, Cloud Architecture, IoT and Computer Vision
+### What I do
+
+- **Software Engineering:** Requirements analysis, architecture, implementation, integration, and maintenance.
+- **Backend & Full Stack:** Web applications, APIs, databases, and business systems.
+- **Cloud & Automation:** Cloud-based services, integrations, and operational workflows.
+- **AI-Assisted Development:** Using tools such as Codex and Claude Code to assist development, analysis, and automation.
+- **IoT & Embedded Systems:** Experience connecting software and hardware through assistive technology projects.
+
+I use AI to improve how I approach engineering problems, while keeping technical understanding, code review, testing, and validation central to the development process.
+
+**Currently interested in:** Junior Software Engineering, Backend Development, Full Stack Development, Cloud, and Applied AI opportunities.
+
+---
+
+## 🛠️ Core Tech Stack
+
+<div align="center">
+
+### Languages & Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Cloud & Engineering Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### AI, Automation & IoT
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### ♿ WACS — Wheelchair Automation Control System
+
+**Assistive Technology | Mobile Development | IoT | Embedded Systems**
+
+WACS is an assistive technology project designed to support mobility and accessibility through the integration of software, sensors, and embedded electronics.
+
+As a **Co-Founder and Technical Lead**, I contributed to the technical development and integration of its components.
+
+**Highlights:**
+- Mobile application development and integration.
+- Communication between software and electronic components.
+- Accessibility-focused system design.
+- Collaboration across software and hardware disciplines.
+- Recognized among the **Top 7 projects at FETEPS 2025**.
+
+📱 [Mobile Application](https://github.com/vftheodoro/APP-WACS)  
+⚙️ [Technical Project](https://github.com/vftheodoro/TCC-WACS)
+
+---
+
+### 🖨️ Printh 3D — Business Management Platform
+
+**Next.js | Supabase | PostgreSQL | Full Stack**
+
+A software platform created for managing 3D printing operations.
+
+The project combines a public-facing application with administrative functionality.
+
+**Engineering areas:**
+- Full Stack web development.
+- Database integration and management.
+- Authentication and administrative access.
+- Product, inventory, and operational workflows.
+- Business process automation.
+
+🔗 [Explore Repository](https://github.com/vftheodoro/Printh3D)
+
+---
+
+### 💼 BYTHE — Software Development & Automation
+
+**Backend | Full Stack | Systems Integration | Cloud**
+
+I'm the founder of **BYTHE – Soluções Tecnológicas**, where I build software and digital solutions for real business needs.
+
+My work involves understanding client requirements, planning technical solutions, developing applications, integrating services, and maintaining deployed systems.
+
+This experience connects software engineering with practical problem-solving, technical responsibility, and product decisions.
+
+🌐 [BYTHE Website](https://bythe.tech)
 
 ---
 
 ## 🏆 Achievements & Recognition
 
+| Achievement | Description |
+|---|---|
+| 🏆 FETEPS 2025 | WACS recognized among the Top 7 projects |
+| 🏅 FETEC | Two-time Best Project Winner |
+| 🤖 RoboCode | State Runner-up |
+| 🧠 OBI | Qualified for the Brazilian Informatics Olympiad |
+| 📐 OBMEP | Five-time qualifier |
+
+---
+
+## 🎓 Education & Experience
+
+**Fatec Registro**  
+Multiplatform Software Development — 2026–2028 (expected)
+
+**Etec Registro**  
+Technical Degree in Systems Development — 2023–2025
+
+**BYTHE — Founder & Software Engineer**  
+Software development, systems integration, automation, and technical solutions.
+
+**Technology Instructor**  
+Experience teaching technology and computing, strengthening communication, collaboration, and technical explanation.
+
+---
+
+## 📊 GitHub Activity
+
 <div align="center">
 
-|  🏆 | Achievement                                      |
-| :-: | :----------------------------------------------- |
-|  🌎 | Top 7 among 3,000+ projects at FETEPS            |
-|  📺 | Featured by CNN Brasil                           |
-|  📰 | Featured by Estadão                              |
-|  🏅 | Two-time Best Project Winner at FETEC            |
-|  🤖 | State Runner-up — RoboCode Tournament            |
-|  🧠 | Qualified — Brazilian Informatics Olympiad (OBI) |
-|  📐 | 5x Qualified — OBMEP                             |
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=vftheodoro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=0078FF"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vftheodoro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&langs_count=6"/>
 
 </div>
 
 ---
 
-## 🏢 Ventures
-
-### 🚀 BYTHE
-
-Technology company focused on delivering practical and scalable solutions for businesses.
-
-**Services:**
-
-* Custom Software Development
-* Web Applications
-* Mobile Applications
-* Process Automation
-* IT Infrastructure
-* Network Deployment
-* Technology Consulting
-* Digital Transformation
-
-🌐 https://bythe.tech
-
----
-
-### 🖨️ PRINTH 3D
-
-3D Printing and Rapid Prototyping Solutions.
-
-**Services:**
-
-* 3D Modeling
-* Rapid Prototyping
-* Functional Parts
-* Custom Manufacturing
-* Educational Projects
-* Product Development
-
----
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### 🎨 Frontend
+## 🤝 Let's Connect
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+I'm interested in opportunities to contribute to software engineering teams, solve meaningful technical problems, and continue growing as an engineer.
 
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-### ☁️ Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-### 🤖 Hardware & IoT
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Project
-
-<div align="center">
-
-### ♿ WACS — Wheelchair Automation Control System
-
-<a href="https://github.com/vftheodoro/WACS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vftheodoro&repo=WACS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=0078FF&text_color=c9d1d9" />
-</a>
-
-</div>
-
-> Intelligent wheelchair automation platform integrating Mobile Development, Artificial Intelligence, Cloud Computing and Embedded Systems.
-
-🏆 Top 7 among 3,000+ projects at FETEPS
-📺 Featured by CNN Brasil
-📰 Featured by Estadão
-
-**Stack:** `React Native` `Node.js` `AWS` `Firebase` `ESP32` `Python` `OpenCV`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vftheodoro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=0078FF&text_color=c9d1d9&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vftheodoro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vftheodoro\&theme=tokyonight\&hide_border=true\&background=0d1117\&stroke=36BCF7\&ring=0078FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-```text
-🎓 Multiplatform Software Development     → FATEC de Registro
-🎓 Systems Development                    → ETEC de Registro
-🔐 Ethical Hacking                        → Cisco Networking Academy
-🛡️ Network Defense                        → Cisco Networking Academy
-💻 Technology Instructor                  → CPS / Municipal Programs
-```
-
----
-
-## 🌱 Currently Exploring
-
-* ☁️ Cloud Architecture & AWS
-* 🤖 Artificial Intelligence
-* 👁️ Computer Vision with OpenCV
-* 🔗 Real-time Systems & APIs
-* 🔧 DevOps & Docker
-* 📡 IoT & Embedded Systems
-* 🏗️ Software Architecture
-
----
-
-<div align="center">
-
-## 🤝 Let's Build Something Together
-
-Available for:
-
-💻 Software Development
-📱 Mobile Applications
-☁️ Cloud Solutions
-🖥️ IT Infrastructure
-🖨️ 3D Printing Projects
-🎓 Technology Training
-🚀 Strategic Partnerships
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/vftheodoro)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vftheodoro)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=black)](https://vftheodoro.vercel.app/pt)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:0a0a0a&height=100&section=footer&stroke=36BCF7&strokeWidth=2"/>
+
+</div>
