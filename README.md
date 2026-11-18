@@ -141,6 +141,18 @@ This experience connects software engineering with practical problem-solving, te
 
 ---
 
+## 🔎 More Engineering Work
+
+Beyond the featured projects, these repositories illustrate different stages of my development:
+
+- [Porto de Registro](https://github.com/vftheodoro/Porto-de-Registro) — TypeScript/Next.js application for timetable lookup, route planning, data validation, PDF generation, and administrative workflows.
+- [Car App — React Native CRUD](https://github.com/vftheodoro/App-React-CRUD) — mobile interface connected to a PHP/SQL API, developed as an academic application.
+- [Fatec Web Programming](https://github.com/vftheodoro/PW-FATEC) — coursework archive demonstrating progression through HTML and CSS fundamentals.
+
+I document learning projects separately from operational systems, and distinguish prototype features from validated functionality.
+
+---
+
 ## 🏆 Achievements & Recognition
 
 | Achievement | Description |
